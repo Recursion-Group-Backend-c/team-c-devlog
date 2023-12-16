@@ -20,4 +20,4 @@
 ### 議事録
 [説明](#説明)で記載した内容をもとに作成した議事録は、下記になります。
 
-[team-c-devlog](https://github.com/Recursion-Group-Backend-c/team-c-devlog/blob/main/dev-log.md)
+[dev-log](https://github.com/Recursion-Group-Backend-c/team-c-devlog/blob/main/dev-log.md)
